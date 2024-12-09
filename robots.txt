@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /.env
+Disallow: /.vscode/sftp.json
+Disallow: /info.php
+Disallow: /?rest_route=/wp/v2/users/
+Disallow: /login.action
+Disallow: /_all_dbs
+Disallow: /.DS_Store
+Disallow: /.git/config
+Disallow: /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
